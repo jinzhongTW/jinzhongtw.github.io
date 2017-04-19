@@ -46,11 +46,14 @@ a.sitetitle {
     padding: 0;
 }
 
-.myMenu li {
+ li {
     position: relative;
     float: left;
     display: block;
     height: 60px;
     line-height: 60px;
     margin-right: 20px;
+}
+.myMenu img {
+    vertical-align: middle;
 }
