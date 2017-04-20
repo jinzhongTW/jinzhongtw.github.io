@@ -59,10 +59,3 @@ a.sitetitle {
     padding: 0 10px;
 }
 
-#myHeader {
-    width: 1015px;
-    height: 120px;
-    position: relative;
-    margin: 0 auto;
-    background: url(/images/myHeader.png) no-repeat;
-}
