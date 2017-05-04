@@ -10,7 +10,7 @@ body {
     line-height: 8px;
 }
 header {
-    background: url(/images/myHeader-3.png) repeat;
+    background: url(/images/myHeader-3.png) repeat-x;
 }
 
 #myHeader {
