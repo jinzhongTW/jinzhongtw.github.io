@@ -7,10 +7,10 @@ body {
     padding: 0;
     background-color: #ededed;
     font-family: Arial, Helvetica, sans-serif;
-    line-height: 20px;
+    line-height: 8px;
 }
 header {
-    background: url(/images/myHeader-3.png) repeat-x;
+    background: url(/images/myHeader-3.png) repeat;
 }
 
 #myHeader {
@@ -53,6 +53,7 @@ a.sitetitle {
     height: 60px;
     line-height: 60px;
     margin-right: 20px;
+    padding: 0 10px;
 }
 .myMenu img {
     vertical-align: middle;
